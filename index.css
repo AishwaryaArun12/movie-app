@@ -4,12 +4,12 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #22254b;
+    background-color: black;
     font-family: "Poppins", sans-serif;
     margin: 0;
 }
 header{
-    background-color: #373b69;
+    background-color: black;
     display: flex;
     justify-content: flex-end;
     padding: 1rem;
@@ -35,7 +35,7 @@ main{
     flex-wrap: wrap;
 }
 .movie{
-    background-color: #373b69;
+    background-color:black;
     border-radius: 3px;
     box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
     margin: 1rem;
@@ -56,7 +56,7 @@ main{
     margin: 0;
 }
 .movie-info span{
-    background-color: #22254b;
+    background-color: white;
     border-radius: 3px;
     padding: 0.25rem 0.5rem;
 }
